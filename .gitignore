@@ -72,4 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Files over 100MB
-/[Aa]ssets/[Tt]oon Fantasy/Scenes/
+/[Aa]ssets/[Tt]oon Fantasy Nature/Scenes/
+/[Aa]ssets/[Tt]oon Fantasy Nature/Terrain/
