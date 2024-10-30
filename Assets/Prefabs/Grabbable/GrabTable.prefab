@@ -75,7 +75,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractionManager: {fileID: 0}
   m_Colliders:
-  - {fileID: 0}
+  - {fileID: 4958958530986143139}
   m_InteractionLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -271,6 +271,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b91314bfbfb94a0fbda920dc4c05873, type: 3}
+--- !u!65 &4958958530986143139 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: -1597991507200165189, guid: 5b91314bfbfb94a0fbda920dc4c05873, type: 3}
+  m_PrefabInstance: {fileID: 3243446818027886360}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6437089290461446497 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8382935209561118329, guid: 5b91314bfbfb94a0fbda920dc4c05873, type: 3}
